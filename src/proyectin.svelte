@@ -12,9 +12,6 @@
   });
 </script>
 
-
-
-
 <main>
     <div class="header">
 
