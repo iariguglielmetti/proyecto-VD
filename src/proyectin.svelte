@@ -110,13 +110,13 @@
     background-color: #920000;
   }
   .colorAzulRecursosPocos {
-    background-color: #00354B;
+    background-color: #0085BE;
   }
   .colorAzulRecursosAlgunos {
     background-color: #005F88;
   }
   .colorAzulRecursosMuchos {
-    background-color: #0085BE;
+    background-color: #00354B;
   }
 
   .nombres{    
