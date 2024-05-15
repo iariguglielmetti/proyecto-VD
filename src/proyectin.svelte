@@ -20,6 +20,7 @@
   <div class= "headersito">
         <h1 class="headline">Hobbies</h1>
         <h2 class="subtitulo">Arte, Deporte, Educación y Entretenimiento </h2>
+        <p id="integrantes">Integrantes: Tomás Gallo e Iara Guglielmetti</p>
         <p id="bajada">Explorando los hobbies a través de datos</p>
   </div>
 
@@ -47,7 +48,7 @@
   }
   .headersito p{
     font-family: "kameron", serif;
-    font-size: 115%;
+    font-size: 120%;
     position: relative;
     bottom: 105px;
   }
@@ -56,6 +57,16 @@
     height: 100px;
     background-color: white;
     transform: rotate(45deg);
+  }
+  #integrantes{
+    position: relative;
+    bottom: 100px;
+    font-size: 120%;
+  }
+  #bajada{
+    position: relative;
+    bottom: 105px;
+    font-size: 130%;
   }
   .grid {
     display: grid;
@@ -72,7 +83,7 @@
     border: 5px solid white;
   }
   .colorVerdeRecursosPocos {
-    background-color: #19ff28;
+    background-color: #4fc04f;
   }
   .colorVerdeRecursosAlgunos {
     background-color: #0a9b00;
@@ -99,13 +110,13 @@
     background-color: #920000;
   }
   .colorAzulRecursosPocos {
-    background-color: #6689FF;
+    background-color: #00354B;
   }
   .colorAzulRecursosAlgunos {
-    background-color: #003AFF;
+    background-color: #005F88;
   }
   .colorAzulRecursosMuchos {
-    background-color: #00124B;
+    background-color: #0085BE;
   }
 
   .nombres{    
