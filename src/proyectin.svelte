@@ -101,10 +101,10 @@
     background-color: #835300;
   }
   .colorRojoRecursosPocos{
-    background-color: #FF5757;
+    background-color: #BC6666;
   }           
   .colorRojoRecursosAlgunos {
-    background-color: #FF0000;
+    background-color: #B53535;
   }
   .colorRojoRecursosMuchos {
     background-color: #920000;
